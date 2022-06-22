@@ -13,13 +13,13 @@
 * Worked throughout the software lifecycle, developing and testing.
 
 ## Work Experience
-### SDE 2 in [Amazon](https://www.amazon.com/) (Apr. 2022 - present)
+### SDE 2 in [Amazon](https://www.amazon.com/) (Fab. 2022 - present)
 * Take ownership on MENA mobile projects for both platform (Android, iOS).
 * Release a feature in checkout page.
 * Code review.
 * Help SDE 1 in daily task.
 
-### Senior Software Engineer in [Weight Watchers](https://www.weightwatchers.com/us/) (May 2020 - Apr. 2022) - Outsourced Job through [Aspire](https://aspire.jo/)   
+### Senior Software Engineer in [Weight Watchers](https://www.weightwatchers.com/us/) (May 2020 - Fab. 2022) - Outsourced Job through [Aspire](https://aspire.jo/)   
 * Revamped module from Java to Kotlin with latest technologies and write Unit-Test using JUnit5. Monitored crashes in Firebase Crashlytics and fixed them.
 * Refactored and implemented new technologies to enhance performance.
 * Monitored and trained juniors developer and share Kotlin and Android knowledge.
