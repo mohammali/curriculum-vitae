@@ -52,7 +52,7 @@
 * Designed mobile application screen UI/UX.
 * Created RESTful web services using Java, JAX-RS, Hibernate to support web and mobile application.
 
-### Android Developer in [NewThinkers](https://www.linkedin.com/company/newthinkers/about/)
+### Android Developer in [NewThinkers](https://www.linkedin.com/company/newthinkers/about/) (Sep. 2013 - Jan 2014)
 * Develop android screen and fixing bugs.
 * Trace and debug crashes.
 
